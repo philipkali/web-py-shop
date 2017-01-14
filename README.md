@@ -1,1 +1,1 @@
-# web-py-shop
+# An online shop web application
